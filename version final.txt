@@ -1,0 +1,3 @@
+crud con autenticación JsonWebToken.
+base de datos MySql. usando consultas.
+autor: Franco Bellido.
